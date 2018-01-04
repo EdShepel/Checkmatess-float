@@ -1,0 +1,74 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	background-image: url(../img/light-wooden-background.jpg);
+}
+.desk{
+	background-image: url(../img/stripe-wood-background-3.jpg);
+	width: 634px;
+	height: 903px;
+	margin-top: 100px; 
+	margin-left: 250px;
+	border: 2px solid #000;
+	position: relative;
+	transform: rotate(10deg);
+	box-shadow:  0 0 50px gray;
+}	
+.black-one{
+	width: 90px;
+	height: 90px;
+	border: 2px solid #000;
+	background-color: #fff;
+	float: left;
+	margin-left: 90px;
+}
+
+.check{
+	width: 85px;
+	height: 85px;
+	border-radius: 50%;
+	background-color: gray;
+	border: 1px solid #000;
+}
+.black-two{
+	width: 90px;
+	height: 90px;
+	border: 2px solid #000;
+	background-color: #fff;
+	float: left;
+	margin-left: 90px;
+}
+.black-one-first {
+	margin-left: 0;
+	width: 90px;
+	height: 90px;
+	border: 2px solid #000;
+	background-color: #fff;
+	float: left;
+}
+.black-two-last{
+	width: 90px;
+	height: 90px;
+	border: 2px solid #000;
+	background-color: #fff;
+	float: left;
+	margin-left: 90px;
+	margin-right: 90px;
+}
+.check-red{
+	width: 85px;
+	height: 85px;
+	border-radius: 50%;
+	background-color: red;
+	border: 1px solid #000;
+}
+
+
+
+
+
+
+
